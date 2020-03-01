@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LeaderElection.App": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
